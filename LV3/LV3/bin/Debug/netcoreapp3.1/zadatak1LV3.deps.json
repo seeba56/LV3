@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "zadatak1LV3/1.0.0": {
+        "runtime": {
+          "zadatak1LV3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zadatak1LV3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

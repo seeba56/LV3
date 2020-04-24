@@ -1,0 +1,11 @@
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.exe
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.deps.json
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.runtimeconfig.json
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.runtimeconfig.dev.json
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.dll
+C:\Users\seba\source\repos\LV3\LV3\bin\Debug\netcoreapp3.1\zadatak1LV3.pdb
+C:\Users\seba\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\zadatak1LV3.csprojAssemblyReference.cache
+C:\Users\seba\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\zadatak1LV3.AssemblyInfoInputs.cache
+C:\Users\seba\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\zadatak1LV3.AssemblyInfo.cs
+C:\Users\seba\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\zadatak1LV3.dll
+C:\Users\seba\source\repos\LV3\LV3\obj\Debug\netcoreapp3.1\zadatak1LV3.pdb

@@ -1,0 +1,5 @@
+C:\Users\seba\source\repos\LV3\zadatak2LV3\bin\Debug\zadatak2LV3.exe.config
+C:\Users\seba\source\repos\LV3\zadatak2LV3\bin\Debug\zadatak2LV3.exe
+C:\Users\seba\source\repos\LV3\zadatak2LV3\bin\Debug\zadatak2LV3.pdb
+C:\Users\seba\source\repos\LV3\zadatak2LV3\obj\Debug\zadatak2LV3.exe
+C:\Users\seba\source\repos\LV3\zadatak2LV3\obj\Debug\zadatak2LV3.pdb
